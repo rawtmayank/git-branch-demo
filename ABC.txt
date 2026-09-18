@@ -1,4 +1,4 @@
 Feature1+bugflix1
 Feature2
 Feature3
-Feature4
+bugfix2 + Feature4
